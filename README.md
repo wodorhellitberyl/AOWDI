@@ -332,7 +332,7 @@ Before tagging the archival `v1.0.0` release, rerun at least one development sit
 
 # 9. Suggested manuscript statement
 
-> **Data and code availability.** Sentinel-2 imagery used in this study is publicly available through the Copernicus Data Space Ecosystem. Reference datasets obtained from collaborators are available from the respective authors subject to their data-sharing conditions. The Python implementation of A-OWDI calculation, scene standardisation and validation is available at [GitHub URL] and archived at Zenodo under DOI: [Zenodo DOI].
+> **Data and code availability.** Sentinel-2 imagery used in this study is publicly available through the Copernicus Data Space Ecosystem. Reference datasets obtained from collaborators are available from the respective authors subject to their data-sharing conditions. The Python implementation of A-OWDI calculation, scene standardisation and validation is available at https://github.com/wodorhellitberyl/AOWDI and archived at Zenodo under DOI: [Zenodo DOI].
 
 ---
 
@@ -348,5 +348,4 @@ Suggested repository citation format:
 ---
 
 ## Software licence
-
-Before the public release, choose an explicit software licence in GitHub/Zenodo. A permissive licence such as **MIT** is a common choice for research code when unrestricted reuse with attribution is desired, but the licence should be selected by the author/institution.
+This software is released under the MIT License.
